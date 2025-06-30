@@ -3,6 +3,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Animate.css](https://img.shields.io/badge/-Animate.css-39FF14?logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
@@ -17,9 +19,17 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-16A085?logo=autoprefixer&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F61?logo=datadog&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/-EDA-9B59B6?logo=plotly&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-2C3E50?logo=apachespark&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-34495E?logo=googlebigquery&logoColor=white)
+![Data-Driven Decision Making](https://img.shields.io/badge/-Data--Driven%20Decisions-28B463?logo=docusign&logoColor=white)
+
 
 # My Soft Skills
 ![Communication](https://img.shields.io/badge/-Communication-007ACC?logo=googlechat&logoColor=white)
