@@ -1,8 +1,7 @@
 # Geershati Saxena Tech Stacl
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Animate.css](https://img.shields.io/badge/-Animate.css-39FF14?logo=css3&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?logo=fontawesome&logoColor=white)
 
-
-- HTML5
-- CSS3
-- JavaScript
-- Animate.css
-- Font Awesome
