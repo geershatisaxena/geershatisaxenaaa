@@ -1,4 +1,4 @@
-# Geershati Saxena Tech Stack
+# My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
 
-# Geershati Saxena Soft Skills
+# My Soft Skills
 ![Communication](https://img.shields.io/badge/-Communication-007ACC?logo=googlechat&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/-Teamwork-FF6F61?logo=googlegroups&logoColor=white)
 ![Leadership](https://img.shields.io/badge/-Leadership-1E90FF?logo=leader&logoColor=white)
